@@ -53,3 +53,7 @@ Frontend 🎨 and FullStack Development 🌐
 LinkedIn: www.linkedin.com/in/emiliano-cararo-b06862233 💼
 
 Email: cararoemilianofrontend@gmail.com 📧
+
+-------
+
+🌍 Location: Córdoba, Argentina
